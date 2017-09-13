@@ -1,0 +1,9 @@
+{
+  "schematics": {
+    "noop": {
+      "factory": "./noop",
+      "schema": "./noop/schema.json",
+      "description": "NOoooP"
+    }
+  }
+}
